@@ -20,6 +20,13 @@ function selectTopic() {
   }
 }
 */
+<<<<<<< HEAD
 
 listTopics()
 selectTopics()
+=======
+console.log('Here are the topics we learned through Prework:');
+listTopics();
+console.log('Which topic should we study first?');
+selectTopic();
+>>>>>>> 0df427cd3895c57cd995d44d9f743122e3bc614e
